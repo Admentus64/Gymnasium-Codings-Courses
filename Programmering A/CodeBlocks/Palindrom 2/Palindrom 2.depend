@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1272877587 source:c:\codeblocks projekter\palindrom 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

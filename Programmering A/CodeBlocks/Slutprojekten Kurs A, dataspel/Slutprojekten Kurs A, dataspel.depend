@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1275900405 source:c:\codeblocks projekter\slutprojekten kurs a, dataspel\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1275241312 source:c:\program files\codeblocks\projects\slutprojekten kurs a, dataspel\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+

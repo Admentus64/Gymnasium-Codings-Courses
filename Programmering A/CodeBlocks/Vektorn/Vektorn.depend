@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1272872851 source:c:\codeblocks projekter\vektorn\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

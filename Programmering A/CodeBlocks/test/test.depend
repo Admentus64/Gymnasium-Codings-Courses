@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1275292674 source:c:\codeblocks projekter\test\main.cpp
+	<iostream>
+	<vector>
+

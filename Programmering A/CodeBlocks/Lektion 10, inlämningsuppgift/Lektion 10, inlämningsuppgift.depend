@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1274087075 source:c:\codeblocks projekter\lektion 10, inlämningsuppgift\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
