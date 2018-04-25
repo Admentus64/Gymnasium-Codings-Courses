@@ -1,0 +1,8 @@
+gameLose.mp3		=	11 strANGE Ls (by: Mark Neil)
+gamePaused.mp3		=	Chantiers Navals 412 (by: LJ Kruzer)
+gameReady.mp3		=	Pink Fuzz (by: The Protagonist!)
+gameTheme.mp3		=	Mariachi Bandits of Gatling Gun Ridge (by: krackatoa)
+menuHelp.mp3		=	Siesta (by: Jahzzar)
+menuMain.mp3		=	Old White Eye (by: Ghost Hunter)	
+menuScore.mp3		=	Something in the Woods (by: Evgeny Grinko)
+menuCredits.mp3		=	Christmas Star (by: Will Heikoop)
