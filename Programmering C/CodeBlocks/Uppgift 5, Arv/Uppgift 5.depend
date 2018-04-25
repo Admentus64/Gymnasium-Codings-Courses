@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1317975457 source:d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\main.cpp
+	"Student.h"
+	"Anstalld.h"
+	"Kurs.h"
+	"DistansKurs.h"
+	"Kurstillfalle.h"
+	<iostream>
+
+1317973914 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\student.h
+	<string>
+	"Person.h"
+
+1317973928 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\person.h
+	<string>
+
+1317974517 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\anstalld.h
+	<string>
+	"Person.h"
+
+1317975562 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\kurs.h
+	<string>
+
+1317975080 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\distanskurs.h
+	<string>
+	"kurs.h"
+
+1317975457 d:\codeblocks projekter\programmering c, 2011-2012\uppgift 5\kurstillfalle.h
+	<string>
+	"kurs.h"
+

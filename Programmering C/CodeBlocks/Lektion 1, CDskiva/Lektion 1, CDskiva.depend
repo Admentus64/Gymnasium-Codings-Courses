@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1314951929 source:d:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\main.cpp
+	<cstdlib>
+	<iostream>
+	"Lat.h"
+	"CDSkiva.h"
+
+1314952014 d:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\lat.h
+	<string>
+
+1314949548 source:d:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\lat.cpp
+	<iostream>
+	"Lat.h"
+
+1314952014 source:d:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\cdskiva.cpp
+	<iostream>
+	"CDSkiva.h"
+
+1314951982 d:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\cdskiva.h
+	<string>
+	<vector>
+	"Lat.h"
+
+1315497321 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\lat.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Lat.h"
+
+1314952014 c:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\lat.h
+	<string>
+
+1315497442 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"Lat.h"
+	"CDSkiva.h"
+
+1314951982 c:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\cdskiva.h
+	<string>
+	<vector>
+	"Lat.h"
+
+1315496918 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 1, cdskiva\cdskiva.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"CDSkiva.h"
+

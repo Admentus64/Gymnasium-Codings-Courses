@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1316705205 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\sprite.cpp
+	"sprite.h"
+
+1316705071 c:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\sprite.h
+
+1316710896 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\main.cpp
+	<cstdlib>
+	<iostream>
+	"punkt.h"
+
+1316711367 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\punkt.cpp
+	<iostream>
+	"punkt.h"
+
+1316711338 c:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\punkt.h
+
+1317971811 source:d:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\punkt.cpp
+	<iostream>
+	"punkt.h"
+
+1317971349 d:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\punkt.h
+
+1317971904 source:d:\codeblocks projekter\programmering c, 2011-2012\lektion 3, konstruktorer och destruktorer\main.cpp
+	<cstdlib>
+	<iostream>
+	"punkt.h"
+

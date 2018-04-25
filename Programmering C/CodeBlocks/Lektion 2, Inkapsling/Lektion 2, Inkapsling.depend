@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1316635070 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 2, inkapsling\person.cpp
+	"person.h"
+
+1316632937 c:\codeblocks projekter\programmering c, 2011-2012\lektion 2, inkapsling\person.h
+	<string>
+
+1316635220 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 2, inkapsling\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"person.h"
+	"dator.h"
+
+1316634963 c:\codeblocks projekter\programmering c, 2011-2012\lektion 2, inkapsling\dator.h
+	<string>
+
+1316634963 source:c:\codeblocks projekter\programmering c, 2011-2012\lektion 2, inkapsling\dator.cpp
+	"dator.h"
+
