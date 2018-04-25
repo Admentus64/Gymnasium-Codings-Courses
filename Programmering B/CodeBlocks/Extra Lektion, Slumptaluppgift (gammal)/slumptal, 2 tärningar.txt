@@ -1,0 +1,36 @@
+Tal 2 (körning 1) : 27760
+Tal 3 (körning 1) : 55348
+Tal 4 (körning 1) : 83425
+Tal 5 (körning 1) : 110783
+Tal 6 (körning 1) : 138957
+Tal 7 (körning 1) : 167025
+Tal 8 (körning 1) : 138622
+Tal 9 (körning 1) : 110948
+Tal 10 (körning 1) : 83475
+Tal 11 (körning 1) : 55913
+Tal 12 (körning 1) : 27744
+
+Tal 2 (körning 2) : 27847
+Tal 3 (körning 2) : 55539
+Tal 4 (körning 2) : 83228
+Tal 5 (körning 2) : 111604
+Tal 6 (körning 2) : 139081
+Tal 7 (körning 2) : 165985
+Tal 8 (körning 2) : 138826
+Tal 9 (körning 2) : 111316
+Tal 10 (körning 2) : 83136
+Tal 11 (körning 2) : 55565
+Tal 12 (körning 2) : 27873
+
+Tal 2 (körning 3) : 28133
+Tal 3 (körning 3) : 55464
+Tal 4 (körning 3) : 83436
+Tal 5 (körning 3) : 111247
+Tal 6 (körning 3) : 139068
+Tal 7 (körning 3) : 166833
+Tal 8 (körning 3) : 138608
+Tal 9 (körning 3) : 110729
+Tal 10 (körning 3) : 83022
+Tal 11 (körning 3) : 55722
+Tal 12 (körning 3) : 27738
+

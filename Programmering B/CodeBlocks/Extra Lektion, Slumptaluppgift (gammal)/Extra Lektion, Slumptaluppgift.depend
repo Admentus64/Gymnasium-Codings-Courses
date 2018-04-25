@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1294664890 source:d:\codeblocks projekter\programmering b, 2010-2011\extra lektion, slumptaluppgift\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

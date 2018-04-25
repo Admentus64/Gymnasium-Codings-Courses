@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1302867447 source:d:\codeblocks projekter\programmering b, 2010-2011\slutprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1306608643 source:c:\codeblocks projekter\programmering b, 2010-2011\slutprojekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+

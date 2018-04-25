@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1287681947 source:d:\codeblocks projekter\programmering b, 2010-2011\lektion 3, inlämningsuppgift\lektion 4, inlämningsuppgift\main.cpp
+	<iostream>
+	<stack>
+
+1289983011 source:d:\codeblocks projekter\programmering b, 2010-2011\lektion 4, inlämningsuppgift\main.cpp
+	<iostream>
+	<stack>
+	<cstdlib>
+	<string>
+
+1289999234 source:c:\codeblocks projekter\programmering b, 2010-2011\lektion 4, inlämningsuppgift\main.cpp
+	<iostream>
+	<stack>
+	<cstdlib>
+	<string>
+

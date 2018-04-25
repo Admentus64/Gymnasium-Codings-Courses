@@ -1,0 +1,21 @@
+Tal 1 (körning 1) : 166710
+Tal 2 (körning 1) : 166776
+Tal 3 (körning 1) : 167532
+Tal 4 (körning 1) : 166741
+Tal 5 (körning 1) : 165620
+Tal 6 (körning 1) : 166621
+
+Tal 1 (körning 2) : 166464
+Tal 2 (körning 2) : 166360
+Tal 3 (körning 2) : 166656
+Tal 4 (körning 2) : 166630
+Tal 5 (körning 2) : 166893
+Tal 6 (körning 2) : 166997
+
+Tal 1 (körning 3) : 166827
+Tal 2 (körning 3) : 167193
+Tal 3 (körning 3) : 167283
+Tal 4 (körning 3) : 165937
+Tal 5 (körning 3) : 166020
+Tal 6 (körning 3) : 166740
+
